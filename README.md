@@ -2,6 +2,10 @@
 A collections of security model for various frameworks.
 
 
+## Browser
+
+* chrome sandbox: http://dev.chromium.org/developers/design-documents/sandbox
+
 ## Container
 
 * docker: https://docs.docker.com/engine/security/security/
